@@ -1,6 +1,6 @@
 # WaiterApp API
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/aLiviaMs/waiter-api/edit/main/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/aLiviaMs/waiter-api/edit/main/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/aLiviaMs/waiter-api/blob/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/aLiviaMs/waiter-api/blob/main/README.pt-br.md)
 
 ## Getting started
 
